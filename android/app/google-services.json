@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794432065615",
+    "project_id": "braguide-bef39",
+    "storage_bucket": "braguide-bef39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794432065615:android:e4a9d179036867b5a05a3a",
+        "android_client_info": {
+          "package_name": "com.example.womenbra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794432065615-96oj362lu6u817hshkgfsklps17vt3cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUhbWJBTXpD3l0PRA3j3xGelB1zXz4JBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794432065615-96oj362lu6u817hshkgfsklps17vt3cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
